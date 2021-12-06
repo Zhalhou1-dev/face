@@ -4,7 +4,7 @@
     width: 97%;
     margin: 0px;
     margin-top: 5px;
-    box-shadow: 5px 5px 18px orangered ;
+    box-shadow: 5px 5px 18px gray ;
     border-radius: 10px;
 }
 
@@ -50,14 +50,14 @@
 
 canvas
 {
-    border: 10px solid goldenrod;
+    border: 10px solid golden;
     margin-top: 150px;
     border-radius: 15px;
 }
 
 body
 {
-    background-color: orangered;
+    background-color: orange;
 }
 
 #button2  
